@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+.card{
+  background-color: rgba(246, 246, 246, 0.9) !important;
+}
+label{
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 750px) {
+  .navbar{
+    flex-direction: column !important;
+  }
+
+}
+@media screen and (min-width: 750px) {
+  .navbar{
+    justify-content: space-around !important;
+  }
+
+}
+

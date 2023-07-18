@@ -1,0 +1,2675 @@
+[
+  {
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "1",
+      "competitorName": "Dani Gasp",
+      "firstName": "Daniele Gaspariam",
+      "category": "rx",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "2",
+      "competitorName": "Jhully",
+      "firstName": "Jhully Handerson dos Reis",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "3",
+      "competitorName": "Rosi Forner",
+      "firstName": "Rosimeire Forner Gaspariam",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "4",
+      "competitorName": "Adriano H",
+      "firstName": "Adriano Heissig",
+      "category": "basic",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "5",
+      "competitorName": "Emerson V",
+      "firstName": "Emerson Vignoto Matos",
+      "category": "basic",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "6",
+      "competitorName": "Fabio Cesar",
+      "firstName": "Fabio Cesar Marchi",
+      "category": "basic",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "7",
+      "competitorName": "Idalina",
+      "firstName": "Idalina Isabel Carezzato",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "8",
+      "competitorName": "Ana Luiza",
+      "firstName": "Ana Luiza Bento",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "9",
+      "competitorName": "Cris Junko",
+      "firstName": "Cristina Junko Yamashita",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "10",
+      "competitorName": "Catherine A",
+      "firstName": "Catherine Amber Leone",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "11",
+      "competitorName": "Berê",
+      "firstName": "Berenice Sobrinho",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "12",
+      "competitorName": "Giovanna C.A.",
+      "firstName": "Giovanna de Castro Almeida",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "13",
+      "competitorName": "Juliana G",
+      "firstName": "Juliana Giacovone",
+      "category": "basic",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "14",
+      "competitorName": "Luan A.",
+      "firstName": "Luan Almeida Faria",
+      "category": "in",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "15",
+      "competitorName": "João Vitor",
+      "firstName": "João Vitor Souza",
+      "category": "in",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "16",
+      "competitorName": "Enéas Edu",
+      "firstName": "Enéas Eduardo Bellao",
+      "category": "in",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "17",
+      "competitorName": "Hideki",
+      "firstName": "Bruno Hideki Haraguni",
+      "category": "in",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "18",
+      "competitorName": "Pedro Paulo",
+      "firstName": "Pedro Paulo de Olveira",
+      "category": "in",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "19",
+      "competitorName": "Ana Clara",
+      "firstName": "Ana Clara Sales",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "20",
+      "competitorName": "Mari Vianna",
+      "firstName": "Mariana Fernanda Vianna",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "21",
+      "competitorName": "Tati Gon",
+      "firstName": "Tatiana Gonçalves Silva",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "22",
+      "competitorName": "Thais G",
+      "firstName": "Thais Gonçalves dos Santos",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "23",
+      "competitorName": "Thais P",
+      "firstName": "Thais Paula Arcanjo",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "24",
+      "competitorName": "Virginia",
+      "firstName": "Virginia Dominiquini",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "25",
+      "competitorName": "Karen",
+      "firstName": "Karen Caroline Vieira",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "26",
+      "competitorName": "Mari Zukeran",
+      "firstName": "Maiana Staut Zukeran",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "27",
+      "competitorName": "Lud Brito",
+      "firstName": "Ludmila Brito Monteiro",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "27",
+      "competitorName": "Dayana",
+      "firstName": "Dayana Leite Ferreira",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "28",
+      "competitorName": "Bárbara M",
+      "firstName": "Bárbara Eduarda Moraes",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "29",
+      "competitorName": "Carol T",
+      "firstName": "Caroline Testoni",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "30",
+      "competitorName": "Taís E.S",
+      "firstName": "Taís do Espirito Santo",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "31",
+      "competitorName": "Dih Gold",
+      "firstName": "Ingrid Goldberd",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "32",
+      "competitorName": "Lu Moribe",
+      "firstName": "Luciana Moribe",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "33",
+      "competitorName": "Mariá",
+      "firstName": "Mariá Lanzotti Sampaio",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "34",
+      "competitorName": "Sandra G",
+      "firstName": "Sandra Gomez",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "35",
+      "competitorName": "Bruna Braga",
+      "firstName": "Bruna Vieira Braga",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "36",
+      "competitorName": "Raissa Moura",
+      "firstName": "Raissa Santos M. de Moura",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "38",
+      "competitorName": "Bia Goes",
+      "firstName": "Beatriz Goes Magalhães",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "39",
+      "competitorName": "Nat Moraes",
+      "firstName": "Natália Moraes",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "40",
+      "competitorName": "Bia Mazziero",
+      "firstName": "Beatriz Gallucci Mazziero",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "41",
+      "competitorName": "Lauanne",
+      "firstName": "Lauanne Ribeiro",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "42",
+      "competitorName": "Luana Sena",
+      "firstName": "Luana Nicoli Sena",
+      "category": "in",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "43",
+      "competitorName": "Rafael C",
+      "firstName": "Rafael Camargo",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "44",
+      "competitorName": "Ale Capozzi",
+      "firstName": "Alexandre Capozzi",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "45",
+      "competitorName": "Lucas A.D",
+      "firstName": "Lucas António Dourado",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "46",
+      "competitorName": "Marco",
+      "firstName": "Marco Martins",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "47",
+      "competitorName": "Lucas Dias",
+      "firstName": "Lucas Dias Rodrigues",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "48",
+      "competitorName": "André R",
+      "firstName": "André Rocha Menezes",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "49",
+      "competitorName": "Marcão",
+      "firstName": "Marcos Correa",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "50",
+      "competitorName": "Ivan",
+      "firstName": "Ivan Bifano Scalet",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "51",
+      "competitorName": "Botter",
+      "firstName": "Ricardo Botter",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "52",
+      "competitorName": "Douglas",
+      "firstName": "Douglas José R. Lima",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "53",
+      "competitorName": "Andy",
+      "firstName": "Anderson Carvalho",
+      "category": "sc",
+      "gender": "M"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "54",
+      "competitorName": "Giovana T",
+      "firstName": "Giovana Teixeira",
+      "category": "sc",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "55",
+      "competitorName": "Bruna N",
+      "firstName": "Bruna Nascimento",
+      "category": "sc",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "56",
+      "competitorName": "Débora K",
+      "firstName": "Débora Kanashiro Meguro",
+      "category": "sc",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "57",
+      "competitorName": "Mireia",
+      "firstName": "Mireia Barneze Stender",
+      "category": "sc",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+  "overallRank": "1",
+  "overallScore": 1,
+  "entrant": {
+      "competitorId": "58",
+      "competitorName": "Bá Benvenuto",
+      "firstName": "Bárbara Benvenuto",
+      "category": "sc",
+      "gender": "F"
+  },
+  "scores": [
+      {
+          "wod": 1,
+          "score": 0
+      },
+      {
+          "wod": 2,
+          "score": 0
+      },
+      {
+          "wod": 3,
+          "score": 0
+      },
+      {
+          "wod": 4,
+          "score": 0
+      },
+      {
+          "wod": 5,
+          "score": 0
+      }
+  ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "59",
+        "competitorName": "Angela B",
+        "firstName": "Angela Bitencourt Cavazzi",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "60",
+        "competitorName": "Aline",
+        "firstName": "Aline Yukari Uehara",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "61",
+        "competitorName": "Néia",
+        "firstName": "Sidneia Bispo de Macedo",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "62",
+        "competitorName": "Liria",
+        "firstName": "Liria Alves Vicente",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "63",
+        "competitorName": "Ana Carol",
+        "firstName": "Ana Carolina Ferreira",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "64",
+        "competitorName": "Fernanda",
+        "firstName": "Fernanda Valentin",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "65",
+        "competitorName": "Leila",
+        "firstName": "Leila Andrade",
+        "category": "sc",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "66",
+        "competitorName": "Fe Aramizu",
+        "firstName": "Felipe Aramizu Gomes",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "67",
+        "competitorName": "Sidney",
+        "firstName": "Sidney Teruo Miyagi",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "68",
+        "competitorName": "Henrique",
+        "firstName": "Henrique Yuki Kamiha",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "69",
+        "competitorName": "Eric",
+        "firstName": "Eric Salathiel",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "70",
+        "competitorName": "Wand",
+        "firstName": "Wanderlon Gomes Milagre",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "71",
+        "competitorName": "Leandro",
+        "firstName": "Leandro Augusto Freire",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "72",
+        "competitorName": "Ale Dutra",
+        "firstName": "Alexandre Dutra",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "73",
+        "competitorName": "Gustavo",
+        "firstName": "Gustavo Boscolo dos Santos",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "74",
+        "competitorName": "Travassos",
+        "firstName": "Felipe Augusto Travassos",
+        "category": "rx",
+        "gender": "M"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "75",
+        "competitorName": "Clau",
+        "firstName": "Claudia Oiano",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "76",
+        "competitorName": "Dani A",
+        "firstName": "Daniella Amorim",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "77",
+        "competitorName": "Anna",
+        "firstName": "Anna Julia Valaesk",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "75",
+        "competitorName": "Clau",
+        "firstName": "Claudia Oiano",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "78",
+        "competitorName": "Tassia",
+        "firstName": "Tassia Aparecida Vivian",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "79",
+        "competitorName": "Roberta",
+        "firstName": "Roberta Chioato",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 1,
+    "entrant": {
+        "competitorId": "80",
+        "competitorName": "Mercia",
+        "firstName": "Mercia Maria Ferreira",
+        "category": "rx",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 0
+        },
+        {
+            "wod": 2,
+            "score": 0
+        },
+        {
+            "wod": 3,
+            "score": 0
+        },
+        {
+            "wod": 4,
+            "score": 0
+        },
+        {
+            "wod": 5,
+            "score": 0
+        }
+    ]
+}
+]

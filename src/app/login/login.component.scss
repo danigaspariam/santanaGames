@@ -1,0 +1,25 @@
+div.container{
+  height: 100vh;
+  background-image: url(../../assets/images/logoTrem.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+@media (min-width: 965px) {
+  div.container{
+    background-size: cover !important;
+  }
+}
+
+div.card{
+  margin-top: 100px;
+}
+
+button{
+  background-color: var(--bs-warning);
+  color: black;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
