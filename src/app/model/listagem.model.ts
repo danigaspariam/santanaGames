@@ -18,3 +18,4 @@ export class ScoreResource{
   score?: any;
   wod?: number;
 }
+

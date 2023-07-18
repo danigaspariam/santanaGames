@@ -1,7 +1,7 @@
 [
   {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "1",
       "competitorName": "Dani Gasp",
@@ -34,7 +34,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "2",
       "competitorName": "Jhully",
@@ -67,7 +67,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "3",
       "competitorName": "Rosi Forner",
@@ -100,7 +100,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "4",
       "competitorName": "Adriano H",
@@ -133,7 +133,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "5",
       "competitorName": "Emerson V",
@@ -166,7 +166,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "6",
       "competitorName": "Fabio Cesar",
@@ -199,7 +199,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "7",
       "competitorName": "Idalina",
@@ -232,7 +232,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "8",
       "competitorName": "Ana Luiza",
@@ -265,7 +265,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "9",
       "competitorName": "Cris Junko",
@@ -298,7 +298,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "10",
       "competitorName": "Catherine A",
@@ -331,7 +331,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "11",
       "competitorName": "Berê",
@@ -364,7 +364,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "12",
       "competitorName": "Giovanna C.A.",
@@ -397,7 +397,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "13",
       "competitorName": "Juliana G",
@@ -430,7 +430,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "14",
       "competitorName": "Luan A.",
@@ -463,7 +463,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "15",
       "competitorName": "João Vitor",
@@ -496,7 +496,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "16",
       "competitorName": "Enéas Edu",
@@ -529,7 +529,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "17",
       "competitorName": "Hideki",
@@ -562,7 +562,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "18",
       "competitorName": "Pedro Paulo",
@@ -595,7 +595,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "19",
       "competitorName": "Ana Clara",
@@ -628,7 +628,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "20",
       "competitorName": "Mari Vianna",
@@ -661,7 +661,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "21",
       "competitorName": "Tati Gon",
@@ -694,7 +694,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "22",
       "competitorName": "Thais G",
@@ -727,7 +727,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "23",
       "competitorName": "Thais P",
@@ -760,12 +760,12 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "24",
-      "competitorName": "Virginia",
-      "firstName": "Virginia Dominiquini",
-      "category": "in",
+      "competitorName": "Luísa",
+      "firstName": "Luísa Michelli",
+      "category": "basic",
       "gender": "F"
   },
   "scores": [
@@ -793,7 +793,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "25",
       "competitorName": "Karen",
@@ -826,7 +826,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "26",
       "competitorName": "Mari Zukeran",
@@ -859,7 +859,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "27",
       "competitorName": "Lud Brito",
@@ -892,7 +892,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "27",
       "competitorName": "Dayana",
@@ -925,7 +925,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "28",
       "competitorName": "Bárbara M",
@@ -958,7 +958,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "29",
       "competitorName": "Carol T",
@@ -991,7 +991,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "30",
       "competitorName": "Taís E.S",
@@ -1024,7 +1024,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "31",
       "competitorName": "Dih Gold",
@@ -1057,7 +1057,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "32",
       "competitorName": "Lu Moribe",
@@ -1090,40 +1090,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
-  "entrant": {
-      "competitorId": "33",
-      "competitorName": "Mariá",
-      "firstName": "Mariá Lanzotti Sampaio",
-      "category": "in",
-      "gender": "F"
-  },
-  "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "34",
       "competitorName": "Sandra G",
@@ -1156,7 +1123,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "35",
       "competitorName": "Bruna Braga",
@@ -1189,7 +1156,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "36",
       "competitorName": "Raissa Moura",
@@ -1222,7 +1189,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "38",
       "competitorName": "Bia Goes",
@@ -1255,7 +1222,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "39",
       "competitorName": "Nat Moraes",
@@ -1288,7 +1255,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "40",
       "competitorName": "Bia Mazziero",
@@ -1321,7 +1288,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "41",
       "competitorName": "Lauanne",
@@ -1354,7 +1321,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "42",
       "competitorName": "Luana Sena",
@@ -1387,7 +1354,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "43",
       "competitorName": "Rafael C",
@@ -1420,7 +1387,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "44",
       "competitorName": "Ale Capozzi",
@@ -1453,7 +1420,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "45",
       "competitorName": "Lucas A.D",
@@ -1486,7 +1453,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "46",
       "competitorName": "Marco",
@@ -1519,7 +1486,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "47",
       "competitorName": "Lucas Dias",
@@ -1552,7 +1519,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "48",
       "competitorName": "André R",
@@ -1585,7 +1552,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "49",
       "competitorName": "Marcão",
@@ -1618,7 +1585,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "50",
       "competitorName": "Ivan",
@@ -1651,7 +1618,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "51",
       "competitorName": "Botter",
@@ -1684,7 +1651,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "52",
       "competitorName": "Douglas",
@@ -1717,7 +1684,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "53",
       "competitorName": "Andy",
@@ -1750,7 +1717,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "54",
       "competitorName": "Giovana T",
@@ -1783,7 +1750,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "55",
       "competitorName": "Bruna N",
@@ -1816,7 +1783,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "56",
       "competitorName": "Débora K",
@@ -1849,7 +1816,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "57",
       "competitorName": "Mireia",
@@ -1882,7 +1849,7 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 1,
+  "overallScore": 0,
   "entrant": {
       "competitorId": "58",
       "competitorName": "Bá Benvenuto",
@@ -1915,7 +1882,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "59",
         "competitorName": "Angela B",
@@ -1948,7 +1915,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "60",
         "competitorName": "Aline",
@@ -1981,7 +1948,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "61",
         "competitorName": "Néia",
@@ -2014,7 +1981,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "62",
         "competitorName": "Liria",
@@ -2047,7 +2014,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "63",
         "competitorName": "Ana Carol",
@@ -2080,7 +2047,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "64",
         "competitorName": "Fernanda",
@@ -2113,7 +2080,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "65",
         "competitorName": "Leila",
@@ -2146,7 +2113,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "66",
         "competitorName": "Fe Aramizu",
@@ -2179,7 +2146,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "67",
         "competitorName": "Sidney",
@@ -2212,7 +2179,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "68",
         "competitorName": "Henrique",
@@ -2245,7 +2212,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "69",
         "competitorName": "Eric",
@@ -2278,7 +2245,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "70",
         "competitorName": "Wand",
@@ -2311,7 +2278,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "71",
         "competitorName": "Leandro",
@@ -2344,7 +2311,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "72",
         "competitorName": "Ale Dutra",
@@ -2377,7 +2344,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "73",
         "competitorName": "Gustavo",
@@ -2410,7 +2377,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "74",
         "competitorName": "Travassos",
@@ -2443,7 +2410,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "75",
         "competitorName": "Clau",
@@ -2476,7 +2443,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "76",
         "competitorName": "Dani A",
@@ -2509,7 +2476,7 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
         "competitorId": "77",
         "competitorName": "Anna",
@@ -2542,42 +2509,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
-        "competitorId": "75",
-        "competitorName": "Clau",
-        "firstName": "Claudia Oiano",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 0
-        },
-        {
-            "wod": 2,
-            "score": 0
-        },
-        {
-            "wod": 3,
-            "score": 0
-        },
-        {
-            "wod": 4,
-            "score": 0
-        },
-        {
-            "wod": 5,
-            "score": 0
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 1,
-    "entrant": {
-        "competitorId": "78",
+        "competitorId": "77",
         "competitorName": "Tassia",
         "firstName": "Tassia Aparecida Vivian",
         "category": "rx",
@@ -2608,9 +2542,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
-        "competitorId": "79",
+        "competitorId": "78",
         "competitorName": "Roberta",
         "firstName": "Roberta Chioato",
         "category": "rx",
@@ -2641,9 +2575,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 0,
     "entrant": {
-        "competitorId": "80",
+        "competitorId": "79",
         "competitorName": "Mercia",
         "firstName": "Mercia Maria Ferreira",
         "category": "rx",

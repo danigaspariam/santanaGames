@@ -14,7 +14,6 @@ export class ListagemAtletasComponent implements OnInit{
   public wod3: number = 0;
   public wod4: number = 0;
   public wod5: number = 0;
-  public pontuacaoFinal: number = 0;
   public isFeminino = true;
   public isMasculino = false;
 
@@ -43,14 +42,15 @@ export class ListagemAtletasComponent implements OnInit{
     const atletasIniciante = data.filter(item => item.entrant?.category === 'in');
     const atletasScale = data.filter(item => item.entrant?.category === 'sc');
     const atletasRx = data.filter(item => item.entrant?.category === 'rx');
-    this.basicFeminino = atletasBasic.filter(item => item.entrant?.gender === 'F');
-    this.inicianteFeminino = atletasIniciante.filter(item => item.entrant?.gender === 'F');
-    this.scaleFeminino = atletasScale.filter(item => item.entrant?.gender === 'F');
-    this.rxFeminino = atletasRx.filter(item => item.entrant?.gender === 'F');
-    this.basicMasculino = atletasBasic.filter(item => item.entrant?.gender === 'M');
-    this.scaleMasculino = atletasScale.filter(item => item.entrant?.gender === 'M');
-    this.rxMasculino = atletasRx.filter(item => item.entrant?.gender === 'M');
-    this.inicianteMasculino = atletasIniciante.filter(item => item.entrant?.gender === 'M');
+    this.basicFeminino = (atletasBasic.filter(item => item.entrant?.gender === 'F')).sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.inicianteFeminino = atletasIniciante.filter(item => item.entrant?.gender === 'F').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.scaleFeminino = atletasScale.filter(item => item.entrant?.gender === 'F').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.rxFeminino = atletasRx.filter(item => item.entrant?.gender === 'F').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.basicMasculino = atletasBasic.filter(item => item.entrant?.gender === 'M').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.scaleMasculino = atletasScale.filter(item => item.entrant?.gender === 'M').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.rxMasculino = atletasRx.filter(item => item.entrant?.gender === 'M').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+    this.inicianteMasculino = atletasIniciante.filter(item => item.entrant?.gender === 'M').sort((a,b) =>  (a.overallScore ?? 0) - (b.overallScore ?? 0));
+
   }
 
   public btnFeminino(){
@@ -107,15 +107,6 @@ export class ListagemAtletasComponent implements OnInit{
       }
     });
     return this.wod5;
-  }
-
-  public totalPontuacao(atleta:  ListagemAtletasResourse){
-    const arrayScore: ScoreResource[] | undefined = atleta.scores;
-    if(arrayScore){
-      this.pontuacaoFinal = arrayScore[0].score + arrayScore[1].score
-      + arrayScore[2].score + arrayScore[3].score + arrayScore[4].score
-    }
-    return this.pontuacaoFinal;
   }
 
 }

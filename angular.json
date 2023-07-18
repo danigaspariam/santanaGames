@@ -33,9 +33,7 @@
               "src/styles.scss",
               "node_modules/bootstrap/scss/bootstrap.scss"
             ],
-            "scripts":{
-              "start": "node server.js"
-          }
+            "scripts":[]
           },
           "configurations": {
             "production": {
