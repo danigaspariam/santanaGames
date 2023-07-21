@@ -1,0 +1,10 @@
+<div class="container">
+  <p class="atleta">{{this.atleta?.entrant?.firstName}}</p>
+  <div *ngFor="let dado of this.atleta?.scores" class="col-12">
+    <p>Wod{{dado?.wod}}  |  Score- {{dado?.score}}</p>
+    <p>{{dado?.descricao}}</p>
+  </div>
+  <div class="row justify-content-center">
+      <button type="button" class="btn btn-dark btn-lg w-100" (click)="closeModal()">Fechar</button>
+    </div>
+</div>

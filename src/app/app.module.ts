@@ -8,19 +8,25 @@ import { ListagemAtletasComponent } from './listagem-atletas/listagem-atletas.co
 import { MainComponent } from './main/main.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { CoreModule } from './core/core.module';
+import { FormComponent } from './form/form.component';
+import { ViewScoreComponent } from './view-score/view-score.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     ListagemAtletasComponent,
-    MainComponent
+    MainComponent,
+    FormComponent,
+    ViewScoreComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
-    CoreModule
+    CoreModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { ListagemService } from '../services/listagem.service';
 import { ListagemAtletasResourse, ScoreResource } from '../model/listagem.model';
+import { ViewScoreComponent } from '../view-score/view-score.component';
 
 @Component({
   selector: 'app-listagem-atletas',
@@ -8,6 +10,7 @@ import { ListagemAtletasResourse, ScoreResource } from '../model/listagem.model'
   styleUrls: ['./listagem-atletas.component.scss']
 })
 export class ListagemAtletasComponent implements OnInit{
+  public atleta: ListagemAtletasResourse = {};
   public atletas: [] = [];
   public wod1: number = 0;
   public wod2: number = 0;
@@ -29,13 +32,15 @@ export class ListagemAtletasComponent implements OnInit{
   public scaleFeminino: ListagemAtletasResourse[] = [];
   public rxFeminino: ListagemAtletasResourse[] = [];
 
-  constructor(private readonly service: ListagemService){}
-  public ngOnInit(){
-    this.isFeminino
-   this.service.getAllAtletes().subscribe(data => {
-    this.filtrarArrays(data);
-   });
-  }
+  constructor(private readonly service: ListagemService,
+    private readonly modalService: NgbModal,){}
+
+    public ngOnInit(){
+      this.isFeminino
+      this.service.getAllAtletes().subscribe(data => {
+      this.filtrarArrays(data);
+      });
+    }
 
   public filtrarArrays(data: ListagemAtletasResourse[]){
     const atletasBasic = data.filter(item => item.entrant?.category === 'basic');
@@ -107,6 +112,15 @@ export class ListagemAtletasComponent implements OnInit{
       }
     });
     return this.wod5;
+  }
+
+  public modal(atleta: ListagemAtletasResourse){
+    this.atleta = atleta;
+    const modalRef = this.modalService.open(ViewScoreComponent, {
+			centered: true,
+			backdrop: 'static',
+		});
+    modalRef.componentInstance.atleta = this.atleta;
   }
 
 }

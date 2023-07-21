@@ -17,5 +17,6 @@ export class EntrantModel{
 export class ScoreResource{
   score?: any;
   wod?: number;
+  descricao?: string;
 }
 

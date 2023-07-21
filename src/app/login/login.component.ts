@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-login',
@@ -9,7 +10,8 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 export class LoginComponent {
   public form: FormGroup;
 
-  constructor(private fb: FormBuilder){
+  constructor(private fb: FormBuilder,
+    private readonly router: Router,){
     this.form = this.fb.group({
       login: ['', Validators.required],
       senha: ['', Validators.required]
@@ -22,8 +24,7 @@ export class LoginComponent {
     console.log(this.form)
     if(this.form.valid){
       const valueForm = this.form.value;
-      console.log(valueForm.login);
-      console.log(valueForm.senha);
+      this.router.navigate(['cadastro-nota']);
     }
   }
 }

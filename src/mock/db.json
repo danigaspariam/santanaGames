@@ -10,27 +10,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -43,27 +48,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -76,27 +86,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -109,27 +124,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -142,27 +162,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -175,27 +200,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -208,27 +238,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -241,27 +276,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -274,27 +314,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -307,27 +352,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -340,27 +390,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -373,27 +428,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -406,27 +466,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -439,27 +504,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -472,27 +542,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -505,27 +580,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -538,27 +618,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -571,27 +656,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -604,27 +694,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -637,27 +732,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -670,27 +770,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -703,27 +808,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -736,27 +846,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -769,27 +884,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -802,27 +922,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -835,27 +960,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -868,27 +998,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -901,27 +1036,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -934,27 +1074,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -967,27 +1112,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1000,27 +1150,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1033,27 +1188,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1066,27 +1226,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1099,27 +1264,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1132,27 +1302,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1165,27 +1340,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1198,27 +1378,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1231,27 +1416,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1264,27 +1454,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1297,27 +1492,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1330,27 +1530,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1363,27 +1568,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1396,27 +1606,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1429,27 +1644,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1462,27 +1682,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1495,27 +1720,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1528,27 +1758,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1561,27 +1796,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1594,27 +1834,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1627,27 +1872,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1660,27 +1910,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1693,27 +1948,32 @@
       "gender": "M"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1726,27 +1986,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1759,27 +2024,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1792,27 +2062,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1825,27 +2100,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
   "overallRank": "1",
@@ -1858,27 +2138,32 @@
       "gender": "F"
   },
   "scores": [
-      {
-          "wod": 1,
-          "score": 0
-      },
-      {
-          "wod": 2,
-          "score": 0
-      },
-      {
-          "wod": 3,
-          "score": 0
-      },
-      {
-          "wod": 4,
-          "score": 0
-      },
-      {
-          "wod": 5,
-          "score": 0
-      }
-  ]
+        {
+            "wod": 1,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 2,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
 },
 {
     "overallRank": "1",
@@ -1893,23 +2178,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -1926,23 +2216,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -1959,23 +2254,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -1992,23 +2292,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2025,23 +2330,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2058,23 +2368,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2091,23 +2406,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2124,23 +2444,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2157,23 +2482,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2190,23 +2520,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2223,23 +2558,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2256,23 +2596,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2289,23 +2634,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2322,23 +2672,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2355,23 +2710,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2388,23 +2748,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2421,23 +2786,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2454,23 +2824,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2487,23 +2862,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2520,23 +2900,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2553,23 +2938,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 },
@@ -2586,23 +2976,28 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 2,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 3,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 4,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         },
         {
             "wod": 5,
-            "score": 0
+            "score": 0,
+            "descricao": ""
         }
     ]
 }
