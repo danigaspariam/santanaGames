@@ -3,10 +3,14 @@ p{
   font-size: 20px;
   font-weight: 700;
 }
-div{
+div.col, div.row, div.geral{
   background-color: black;
 }
 .btn-outline-warning{
   margin-left: 10px !important;
   font-size: 10px !important;
+}
+
+div.alert{
+  padding: 10px !important;
 }

@@ -1,4 +1,6 @@
-
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Hey Santaner!</strong> Você pode ver a descrição da sua nota, clicando no seu nome ou no botão ao lado do mesmo.
+</div>
 <div class="m-0">
 <div class="row">
   <div class="d-flex col justify-content-around mt-1 mb-1">
@@ -6,16 +8,18 @@
     <button type="button" class="btn btn-dark btn-lg" (click)="btnMasculino()">Masculino</button>
   </div>
 </div>
+
 <div class="row">
 <div class="col">
   <p class="text-center">Categoria RX</p>
 </div>
 </div>
-<div *ngIf="isMasculino === true">
+<div class="geral" *ngIf="isMasculino === true">
   <table id="myTable" class="table table-dark table-striped">
     <thead>
       <tr>
         <th scope="col">Nome</th>
+        <th scope="col">Notas</th>
         <th scope="col">1</th>
         <th scope="col">2</th>
         <th scope="col">3</th>
@@ -26,7 +30,8 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.rxMasculino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -45,6 +50,7 @@
     <thead>
       <tr>
         <th scope="col">Nome</th>
+        <th scope="col">Notas</th>
         <th scope="col">1</th>
         <th scope="col">2</th>
         <th scope="col">3</th>
@@ -55,7 +61,8 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.scaleMasculino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -74,6 +81,7 @@
     <thead>
       <tr>
         <th scope="col">Nome</th>
+        <th scope="col">Notas</th>
         <th scope="col">1</th>
         <th scope="col">2</th>
         <th scope="col">3</th>
@@ -84,7 +92,8 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.inicianteMasculino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -103,6 +112,7 @@
       <thead>
         <tr>
           <th scope="col">Nome</th>
+          <th scope="col">Notas</th>
           <th scope="col">1</th>
           <th scope="col">2</th>
           <th scope="col">3</th>
@@ -113,7 +123,8 @@
       </thead>
       <tbody>
         <tr  *ngFor="let atleta of this.basicMasculino">
-          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+          <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
           <td>{{this.getNotaWod1(atleta)}}</td>
           <td>{{this.getNotaWod2(atleta)}}</td>
           <td>{{this.getNotaWod3(atleta)}}</td>
@@ -125,11 +136,12 @@
     </table>
   </div>
 </div>
-<div *ngIf="isFeminino === true">
+<div class="geral" *ngIf="isFeminino === true">
   <table class="table table-dark table-striped">
     <thead>
       <tr>
         <th scope="col">Nome</th>
+        <th scope="col">Notas</th>
         <th scope="col">1</th>
         <th scope="col">2</th>
         <th scope="col">3</th>
@@ -140,7 +152,8 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.rxFeminino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -159,6 +172,7 @@
     <thead>
       <tr>
         <th scope="col">Nome</th>
+        <th scope="col">Notas</th>
         <th scope="col">1</th>
         <th scope="col">2</th>
         <th scope="col">3</th>
@@ -169,7 +183,8 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.scaleFeminino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -188,6 +203,7 @@
     <thead>
       <tr>
         <th scope="col">Nome</th>
+        <th scope="col">Notas</th>
         <th scope="col">1</th>
         <th scope="col">2</th>
         <th scope="col">3</th>
@@ -198,7 +214,8 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.inicianteFeminino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -217,6 +234,7 @@
       <thead>
         <tr>
           <th scope="col">Nome</th>
+          <th scope="col">Notas</th>
           <th scope="col">1</th>
           <th scope="col">2</th>
           <th scope="col">3</th>
@@ -227,7 +245,8 @@
       </thead>
       <tbody>
         <tr  *ngFor="let atleta of this.basicFeminino">
-          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
+          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+          <td> <button class="btn btn-outline-warning btn-sm" (click)="modal(atleta)">Notas</button></td>
           <td>{{this.getNotaWod1(atleta)}}</td>
           <td>{{this.getNotaWod2(atleta)}}</td>
           <td>{{this.getNotaWod3(atleta)}}</td>
