@@ -1,9 +1,9 @@
 [
   {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 6,
   "entrant": {
-      "competitorId": "1",
+      "competitorId": 0,
       "competitorName": "Dani Gasp",
       "firstName": "Daniele Gaspariam",
       "category": "rx",
@@ -12,8 +12,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 6:37"
         },
         {
             "wod": 2,
@@ -39,9 +39,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 4,
   "entrant": {
-      "competitorId": "2",
+      "competitorId": 1,
       "competitorName": "Jhully",
       "firstName": "Jhully Handerson dos Reis",
       "category": "sc",
@@ -50,8 +50,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 5:50"
         },
         {
             "wod": 2,
@@ -77,9 +77,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 7,
   "entrant": {
-      "competitorId": "3",
+      "competitorId": 2,
       "competitorName": "Rosi Forner",
       "firstName": "Rosimeire Forner Gaspariam",
       "category": "in",
@@ -88,8 +88,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 7,
+            "descricao": "tempo 3:34"
         },
         {
             "wod": 2,
@@ -115,9 +115,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 1,
   "entrant": {
-      "competitorId": "4",
+      "competitorId": 3,
       "competitorName": "Adriano H",
       "firstName": "Adriano Heissig",
       "category": "basic",
@@ -126,8 +126,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 6:03"
         },
         {
             "wod": 2,
@@ -153,9 +153,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 2,
   "entrant": {
-      "competitorId": "5",
+      "competitorId": 4,
       "competitorName": "Emerson V",
       "firstName": "Emerson Vignoto Matos",
       "category": "basic",
@@ -164,8 +164,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 8:07"
         },
         {
             "wod": 2,
@@ -191,9 +191,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 3,
   "entrant": {
-      "competitorId": "6",
+      "competitorId": 5,
       "competitorName": "Fabio Cesar",
       "firstName": "Fabio Cesar Marchi",
       "category": "basic",
@@ -202,8 +202,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 8:12"
         },
         {
             "wod": 2,
@@ -229,9 +229,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 7,
   "entrant": {
-      "competitorId": "7",
+      "competitorId": 6,
       "competitorName": "Idalina",
       "firstName": "Idalina Isabel Carezzato",
       "category": "basic",
@@ -240,8 +240,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 7,
+            "descricao": "tempo 8:50"
         },
         {
             "wod": 2,
@@ -267,9 +267,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 2,
   "entrant": {
-      "competitorId": "8",
+      "competitorId": 7,
       "competitorName": "Ana Luiza",
       "firstName": "Ana Luiza Bento",
       "category": "basic",
@@ -278,8 +278,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 7:06"
         },
         {
             "wod": 2,
@@ -305,9 +305,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 1,
   "entrant": {
-      "competitorId": "9",
+      "competitorId": 8,
       "competitorName": "Cris Junko",
       "firstName": "Cristina Junko Yamashita",
       "category": "basic",
@@ -316,8 +316,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 6:47"
         },
         {
             "wod": 2,
@@ -343,9 +343,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 3,
   "entrant": {
-      "competitorId": "10",
+      "competitorId": 9,
       "competitorName": "Catherine A",
       "firstName": "Catherine Amber Leone",
       "category": "basic",
@@ -354,8 +354,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 8:26"
         },
         {
             "wod": 2,
@@ -381,9 +381,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 6,
   "entrant": {
-      "competitorId": "11",
+      "competitorId": 10,
       "competitorName": "Berê",
       "firstName": "Berenice Sobrinho",
       "category": "basic",
@@ -392,8 +392,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 8:36"
         },
         {
             "wod": 2,
@@ -419,9 +419,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 4,
   "entrant": {
-      "competitorId": "12",
+      "competitorId": 11,
       "competitorName": "Giovanna C.A.",
       "firstName": "Giovanna de Castro Almeida",
       "category": "basic",
@@ -430,8 +430,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 8:30"
         },
         {
             "wod": 2,
@@ -457,9 +457,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 8,
   "entrant": {
-      "competitorId": "13",
+      "competitorId": 12,
       "competitorName": "Juliana G",
       "firstName": "Juliana Giacovone",
       "category": "basic",
@@ -468,8 +468,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 8,
+            "descricao": "tempo 9:15"
         },
         {
             "wod": 2,
@@ -495,9 +495,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 4,
   "entrant": {
-      "competitorId": "14",
+      "competitorId": 13,
       "competitorName": "Luan A.",
       "firstName": "Luan Almeida Faria",
       "category": "in",
@@ -506,8 +506,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 4:59"
         },
         {
             "wod": 2,
@@ -533,9 +533,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 3,
   "entrant": {
-      "competitorId": "15",
+      "competitorId": 14,
       "competitorName": "João Vitor",
       "firstName": "João Vitor Souza",
       "category": "in",
@@ -544,8 +544,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 4:28"
         },
         {
             "wod": 2,
@@ -571,10 +571,10 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 6,
   "entrant": {
-      "competitorId": "16",
-      "competitorName": "Enéas Edu",
+      "competitorId": 15,
+      "competitorName": "Edu Bellao",
       "firstName": "Enéas Eduardo Bellao",
       "category": "in",
       "gender": "M"
@@ -582,8 +582,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 6:00"
         },
         {
             "wod": 2,
@@ -609,9 +609,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 1,
   "entrant": {
-      "competitorId": "17",
+      "competitorId": 16,
       "competitorName": "Hideki",
       "firstName": "Bruno Hideki Haraguni",
       "category": "in",
@@ -620,8 +620,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 3:01"
         },
         {
             "wod": 2,
@@ -647,9 +647,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 5,
   "entrant": {
-      "competitorId": "18",
+      "competitorId": 17,
       "competitorName": "Pedro Paulo",
       "firstName": "Pedro Paulo de Olveira",
       "category": "in",
@@ -658,8 +658,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 5:54"
         },
         {
             "wod": 2,
@@ -685,9 +685,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 20,
   "entrant": {
-      "competitorId": "19",
+      "competitorId": 18,
       "competitorName": "Ana Clara",
       "firstName": "Ana Clara Sales",
       "category": "in",
@@ -696,8 +696,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 20,
+            "descricao": "tempo 5:20"
         },
         {
             "wod": 2,
@@ -723,9 +723,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 24,
   "entrant": {
-      "competitorId": "20",
+      "competitorId": 19,
       "competitorName": "Mari Vianna",
       "firstName": "Mariana Fernanda Vianna",
       "category": "in",
@@ -734,8 +734,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 24,
+            "descricao": "tempo 8:14"
         },
         {
             "wod": 2,
@@ -761,9 +761,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 8,
   "entrant": {
-      "competitorId": "21",
+      "competitorId": 20,
       "competitorName": "Tati Gon",
       "firstName": "Tatiana Gonçalves Silva",
       "category": "in",
@@ -772,8 +772,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 8,
+            "descricao": "tempo 3:38"
         },
         {
             "wod": 2,
@@ -799,9 +799,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 22,
   "entrant": {
-      "competitorId": "22",
+      "competitorId": 21,
       "competitorName": "Thais G",
       "firstName": "Thais Gonçalves dos Santos",
       "category": "in",
@@ -810,8 +810,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 22,
+            "descricao": "tempo 7:43"
         },
         {
             "wod": 2,
@@ -837,9 +837,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 4,
   "entrant": {
-      "competitorId": "23",
+      "competitorId": 22,
       "competitorName": "Thais P",
       "firstName": "Thais Paula Arcanjo",
       "category": "in",
@@ -848,8 +848,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 3:06"
         },
         {
             "wod": 2,
@@ -875,9 +875,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 5,
   "entrant": {
-      "competitorId": "24",
+      "competitorId": 23,
       "competitorName": "Luísa",
       "firstName": "Luísa Michelli",
       "category": "basic",
@@ -886,8 +886,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 8:33"
         },
         {
             "wod": 2,
@@ -913,9 +913,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 23,
   "entrant": {
-      "competitorId": "25",
+      "competitorId": 24,
       "competitorName": "Karen",
       "firstName": "Karen Caroline Vieira",
       "category": "in",
@@ -924,8 +924,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 23,
+            "descricao": "tempo 8:03"
         },
         {
             "wod": 2,
@@ -951,9 +951,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 16,
   "entrant": {
-      "competitorId": "26",
+      "competitorId": 25,
       "competitorName": "Mari Zukeran",
       "firstName": "Maiana Staut Zukeran",
       "category": "in",
@@ -962,8 +962,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 16,
+            "descricao": "tempo 4:30"
         },
         {
             "wod": 2,
@@ -989,9 +989,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 14,
   "entrant": {
-      "competitorId": "27",
+      "competitorId": 26,
       "competitorName": "Lud Brito",
       "firstName": "Ludmila Brito Monteiro",
       "category": "in",
@@ -1000,8 +1000,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 14,
+            "descricao": "tempo 4:18"
         },
         {
             "wod": 2,
@@ -1027,9 +1027,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 2,
   "entrant": {
-      "competitorId": "27",
+      "competitorId": 27,
       "competitorName": "Dayana",
       "firstName": "Dayana Leite Ferreira",
       "category": "in",
@@ -1038,8 +1038,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 2:41"
         },
         {
             "wod": 2,
@@ -1065,9 +1065,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 12,
   "entrant": {
-      "competitorId": "28",
+      "competitorId": 28,
       "competitorName": "Bárbara M",
       "firstName": "Bárbara Eduarda Moraes",
       "category": "in",
@@ -1076,8 +1076,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 12,
+            "descricao": "tempo 4:07"
         },
         {
             "wod": 2,
@@ -1103,9 +1103,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 13,
   "entrant": {
-      "competitorId": "29",
+      "competitorId": 29,
       "competitorName": "Carol T",
       "firstName": "Caroline Testoni",
       "category": "in",
@@ -1114,8 +1114,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 13,
+            "descricao": "tempo 4:11"
         },
         {
             "wod": 2,
@@ -1141,9 +1141,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 15,
   "entrant": {
-      "competitorId": "30",
+      "competitorId": 30,
       "competitorName": "Taís E.S",
       "firstName": "Taís do Espirito Santo",
       "category": "in",
@@ -1152,8 +1152,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 15,
+            "descricao": "tempo 4:28"
         },
         {
             "wod": 2,
@@ -1179,9 +1179,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 6,
   "entrant": {
-      "competitorId": "31",
+      "competitorId": 31,
       "competitorName": "Dih Gold",
       "firstName": "Ingrid Goldberd",
       "category": "in",
@@ -1190,8 +1190,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 3:30"
         },
         {
             "wod": 2,
@@ -1217,9 +1217,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 1,
   "entrant": {
-      "competitorId": "32",
+      "competitorId": 32,
       "competitorName": "Lu Moribe",
       "firstName": "Luciana Moribe",
       "category": "in",
@@ -1228,8 +1228,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 2:33"
         },
         {
             "wod": 2,
@@ -1255,9 +1255,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 19,
   "entrant": {
-      "competitorId": "34",
+      "competitorId": 33,
       "competitorName": "Sandra G",
       "firstName": "Sandra Gomez",
       "category": "in",
@@ -1266,8 +1266,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 19,
+            "descricao": "tempo 5:04"
         },
         {
             "wod": 2,
@@ -1293,9 +1293,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 21,
   "entrant": {
-      "competitorId": "35",
+      "competitorId": 34,
       "competitorName": "Bruna Braga",
       "firstName": "Bruna Vieira Braga",
       "category": "in",
@@ -1304,8 +1304,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 21,
+            "descricao": "tempo 5:47"
         },
         {
             "wod": 2,
@@ -1331,9 +1331,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 9,
   "entrant": {
-      "competitorId": "36",
+      "competitorId": 35,
       "competitorName": "Raissa Moura",
       "firstName": "Raissa Santos M. de Moura",
       "category": "in",
@@ -1342,8 +1342,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 9,
+            "descricao": "tempo 3:48"
         },
         {
             "wod": 2,
@@ -1369,9 +1369,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 17,
   "entrant": {
-      "competitorId": "38",
+      "competitorId": 36,
       "competitorName": "Bia Goes",
       "firstName": "Beatriz Goes Magalhães",
       "category": "in",
@@ -1380,8 +1380,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 17,
+            "descricao": "tempo 4:46"
         },
         {
             "wod": 2,
@@ -1407,9 +1407,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 3,
   "entrant": {
-      "competitorId": "39",
+      "competitorId": 37,
       "competitorName": "Nat Moraes",
       "firstName": "Natália Moraes",
       "category": "in",
@@ -1418,8 +1418,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 2:58"
         },
         {
             "wod": 2,
@@ -1445,9 +1445,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 5,
   "entrant": {
-      "competitorId": "40",
+      "competitorId": 38,
       "competitorName": "Bia Mazziero",
       "firstName": "Beatriz Gallucci Mazziero",
       "category": "in",
@@ -1456,8 +1456,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 3:07"
         },
         {
             "wod": 2,
@@ -1483,9 +1483,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 11,
   "entrant": {
-      "competitorId": "41",
+      "competitorId": 39,
       "competitorName": "Lauanne",
       "firstName": "Lauanne Ribeiro",
       "category": "in",
@@ -1494,8 +1494,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 11,
+            "descricao": "tempo 4:06"
         },
         {
             "wod": 2,
@@ -1521,9 +1521,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 10,
   "entrant": {
-      "competitorId": "42",
+      "competitorId": 40,
       "competitorName": "Luana Sena",
       "firstName": "Luana Nicoli Sena",
       "category": "in",
@@ -1532,8 +1532,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 10,
+            "descricao": "tempo 3:52"
         },
         {
             "wod": 2,
@@ -1559,9 +1559,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 5,
   "entrant": {
-      "competitorId": "43",
+      "competitorId": 41,
       "competitorName": "Rafael C",
       "firstName": "Rafael Camargo",
       "category": "sc",
@@ -1570,8 +1570,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 5:52"
         },
         {
             "wod": 2,
@@ -1597,9 +1597,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 10,
   "entrant": {
-      "competitorId": "44",
+      "competitorId": 42,
       "competitorName": "Ale Capozzi",
       "firstName": "Alexandre Capozzi",
       "category": "sc",
@@ -1608,8 +1608,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 10,
+            "descricao": "tempo 8:20"
         },
         {
             "wod": 2,
@@ -1635,9 +1635,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 3,
   "entrant": {
-      "competitorId": "45",
+      "competitorId": 43,
       "competitorName": "Lucas A.D",
       "firstName": "Lucas António Dourado",
       "category": "sc",
@@ -1646,8 +1646,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 5:32"
         },
         {
             "wod": 2,
@@ -1673,9 +1673,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 7,
   "entrant": {
-      "competitorId": "46",
+      "competitorId": 44,
       "competitorName": "Marco",
       "firstName": "Marco Martins",
       "category": "sc",
@@ -1684,8 +1684,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 7,
+            "descricao": "tempo 6:18"
         },
         {
             "wod": 2,
@@ -1711,9 +1711,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 11,
   "entrant": {
-      "competitorId": "47",
+      "competitorId": 45,
       "competitorName": "Lucas Dias",
       "firstName": "Lucas Dias Rodrigues",
       "category": "sc",
@@ -1722,8 +1722,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 11,
+            "descricao": "-"
         },
         {
             "wod": 2,
@@ -1749,9 +1749,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 8,
   "entrant": {
-      "competitorId": "48",
+      "competitorId": 46,
       "competitorName": "André R",
       "firstName": "André Rocha Menezes",
       "category": "sc",
@@ -1760,8 +1760,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 8,
+            "descricao": "tempo 7:39"
         },
         {
             "wod": 2,
@@ -1787,9 +1787,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 1,
   "entrant": {
-      "competitorId": "49",
+      "competitorId": 47,
       "competitorName": "Marcão",
       "firstName": "Marcos Correa",
       "category": "sc",
@@ -1798,8 +1798,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 4:00"
         },
         {
             "wod": 2,
@@ -1825,9 +1825,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 2,
   "entrant": {
-      "competitorId": "50",
+      "competitorId": 48,
       "competitorName": "Ivan",
       "firstName": "Ivan Bifano Scalet",
       "category": "sc",
@@ -1836,8 +1836,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 4:31"
         },
         {
             "wod": 2,
@@ -1863,9 +1863,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 6,
   "entrant": {
-      "competitorId": "51",
+      "competitorId": 49,
       "competitorName": "Botter",
       "firstName": "Ricardo Botter",
       "category": "sc",
@@ -1874,8 +1874,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 5:55"
         },
         {
             "wod": 2,
@@ -1901,19 +1901,19 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 2,
   "entrant": {
-      "competitorId": "52",
+      "competitorId": 50,
       "competitorName": "Douglas",
       "firstName": "Douglas José R. Lima",
-      "category": "sc",
+      "category": "in",
       "gender": "M"
   },
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 3:53"
         },
         {
             "wod": 2,
@@ -1939,9 +1939,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 9,
   "entrant": {
-      "competitorId": "53",
+      "competitorId": 51,
       "competitorName": "Andy",
       "firstName": "Anderson Carvalho",
       "category": "sc",
@@ -1950,8 +1950,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 9,
+            "descricao": "tempo 8:08"
         },
         {
             "wod": 2,
@@ -1977,9 +1977,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 5,
   "entrant": {
-      "competitorId": "54",
+      "competitorId": 52,
       "competitorName": "Giovana T",
       "firstName": "Giovana Teixeira",
       "category": "sc",
@@ -1988,8 +1988,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 4:25"
         },
         {
             "wod": 2,
@@ -2015,9 +2015,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 3,
   "entrant": {
-      "competitorId": "55",
+      "competitorId": 53,
       "competitorName": "Bruna N",
       "firstName": "Bruna Nascimento",
       "category": "sc",
@@ -2026,8 +2026,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 4:08"
         },
         {
             "wod": 2,
@@ -2053,9 +2053,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 9,
   "entrant": {
-      "competitorId": "56",
+      "competitorId": 54,
       "competitorName": "Débora K",
       "firstName": "Débora Kanashiro Meguro",
       "category": "sc",
@@ -2064,8 +2064,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 9,
+            "descricao": "tempo 7:14"
         },
         {
             "wod": 2,
@@ -2091,9 +2091,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 11,
   "entrant": {
-      "competitorId": "57",
+      "competitorId": 55,
       "competitorName": "Mireia",
       "firstName": "Mireia Barneze Stender",
       "category": "sc",
@@ -2102,8 +2102,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 11,
+            "descricao": "tempo 7:59"
         },
         {
             "wod": 2,
@@ -2129,9 +2129,9 @@
 },
 {
   "overallRank": "1",
-  "overallScore": 0,
+  "overallScore": 2,
   "entrant": {
-      "competitorId": "58",
+      "competitorId": 56,
       "competitorName": "Bá Benvenuto",
       "firstName": "Bárbara Benvenuto",
       "category": "sc",
@@ -2140,8 +2140,8 @@
   "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 4:05"
         },
         {
             "wod": 2,
@@ -2167,9 +2167,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 12,
     "entrant": {
-        "competitorId": "59",
+        "competitorId": 57,
         "competitorName": "Angela B",
         "firstName": "Angela Bitencourt Cavazzi",
         "category": "sc",
@@ -2178,8 +2178,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 12,
+            "descricao": "tempo 8:07"
         },
         {
             "wod": 2,
@@ -2205,9 +2205,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 4,
     "entrant": {
-        "competitorId": "60",
+        "competitorId": 58,
         "competitorName": "Aline",
         "firstName": "Aline Yukari Uehara",
         "category": "sc",
@@ -2216,8 +2216,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 4:15"
         },
         {
             "wod": 2,
@@ -2243,9 +2243,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 1,
     "entrant": {
-        "competitorId": "61",
+        "competitorId": 59,
         "competitorName": "Néia",
         "firstName": "Sidneia Bispo de Macedo",
         "category": "sc",
@@ -2254,8 +2254,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 3:58"
         },
         {
             "wod": 2,
@@ -2281,9 +2281,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 8,
     "entrant": {
-        "competitorId": "62",
+        "competitorId": 60,
         "competitorName": "Liria",
         "firstName": "Liria Alves Vicente",
         "category": "sc",
@@ -2292,8 +2292,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 8,
+            "descricao": "tempo 6:37"
         },
         {
             "wod": 2,
@@ -2319,9 +2319,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 7,
     "entrant": {
-        "competitorId": "63",
+        "competitorId": 61,
         "competitorName": "Ana Carol",
         "firstName": "Ana Carolina Ferreira",
         "category": "sc",
@@ -2330,8 +2330,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 7,
+            "descricao": "tempo 4:48"
         },
         {
             "wod": 2,
@@ -2357,9 +2357,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 6,
     "entrant": {
-        "competitorId": "64",
+        "competitorId": 62,
         "competitorName": "Fernanda",
         "firstName": "Fernanda Valentin",
         "category": "sc",
@@ -2368,8 +2368,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 4:30"
         },
         {
             "wod": 2,
@@ -2395,9 +2395,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 10,
     "entrant": {
-        "competitorId": "65",
+        "competitorId": 63,
         "competitorName": "Leila",
         "firstName": "Leila Andrade",
         "category": "sc",
@@ -2406,8 +2406,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 10,
+            "descricao": "tempo 7:33"
         },
         {
             "wod": 2,
@@ -2433,9 +2433,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 9,
     "entrant": {
-        "competitorId": "66",
+        "competitorId": 64,
         "competitorName": "Fe Aramizu",
         "firstName": "Felipe Aramizu Gomes",
         "category": "rx",
@@ -2444,8 +2444,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 9,
+            "descricao": "tempo 8:53"
         },
         {
             "wod": 2,
@@ -2471,9 +2471,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 8,
     "entrant": {
-        "competitorId": "67",
+        "competitorId": 65,
         "competitorName": "Sidney",
         "firstName": "Sidney Teruo Miyagi",
         "category": "rx",
@@ -2482,8 +2482,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 8,
+            "descricao": "tempo 7:48"
         },
         {
             "wod": 2,
@@ -2509,9 +2509,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 2,
     "entrant": {
-        "competitorId": "68",
+        "competitorId": 66,
         "competitorName": "Henrique",
         "firstName": "Henrique Yuki Kamiha",
         "category": "rx",
@@ -2520,8 +2520,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 5:37"
         },
         {
             "wod": 2,
@@ -2547,9 +2547,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 5,
     "entrant": {
-        "competitorId": "69",
+        "competitorId": 67,
         "competitorName": "Eric",
         "firstName": "Eric Salathiel",
         "category": "rx",
@@ -2558,8 +2558,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 6:20"
         },
         {
             "wod": 2,
@@ -2585,9 +2585,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 6,
     "entrant": {
-        "competitorId": "70",
+        "competitorId": 68,
         "competitorName": "Wand",
         "firstName": "Wanderlon Gomes Milagre",
         "category": "rx",
@@ -2596,8 +2596,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 6,
+            "descricao": "tempo 6:41"
         },
         {
             "wod": 2,
@@ -2623,9 +2623,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 1,
     "entrant": {
-        "competitorId": "71",
+        "competitorId": 69,
         "competitorName": "Leandro",
         "firstName": "Leandro Augusto Freire",
         "category": "rx",
@@ -2634,8 +2634,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 4:48"
         },
         {
             "wod": 2,
@@ -2661,9 +2661,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 7,
     "entrant": {
-        "competitorId": "72",
+        "competitorId": 70,
         "competitorName": "Ale Dutra",
         "firstName": "Alexandre Dutra",
         "category": "rx",
@@ -2672,8 +2672,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 7,
+            "descricao": "tempo 7:01"
         },
         {
             "wod": 2,
@@ -2699,9 +2699,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 4,
     "entrant": {
-        "competitorId": "73",
+        "competitorId": 71,
         "competitorName": "Gustavo",
         "firstName": "Gustavo Boscolo dos Santos",
         "category": "rx",
@@ -2710,8 +2710,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 5:48"
         },
         {
             "wod": 2,
@@ -2737,9 +2737,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 3,
     "entrant": {
-        "competitorId": "74",
+        "competitorId": 72,
         "competitorName": "Travassos",
         "firstName": "Felipe Augusto Travassos",
         "category": "rx",
@@ -2748,8 +2748,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 5:38"
         },
         {
             "wod": 2,
@@ -2775,9 +2775,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 1,
     "entrant": {
-        "competitorId": "75",
+        "competitorId": 73,
         "competitorName": "Clau",
         "firstName": "Claudia Oiano",
         "category": "rx",
@@ -2786,8 +2786,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 1,
+            "descricao": "tempo 4:00"
         },
         {
             "wod": 2,
@@ -2813,9 +2813,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 2,
     "entrant": {
-        "competitorId": "76",
+        "competitorId": 74,
         "competitorName": "Dani A",
         "firstName": "Daniella Amorim",
         "category": "rx",
@@ -2824,8 +2824,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 2,
+            "descricao": "tempo 4:06"
         },
         {
             "wod": 2,
@@ -2851,9 +2851,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 4,
     "entrant": {
-        "competitorId": "77",
+        "competitorId": 75,
         "competitorName": "Anna",
         "firstName": "Anna Julia Valaesk",
         "category": "rx",
@@ -2862,8 +2862,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 4,
+            "descricao": "tempo 5:15"
         },
         {
             "wod": 2,
@@ -2889,9 +2889,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 5,
     "entrant": {
-        "competitorId": "77",
+        "competitorId": 76,
         "competitorName": "Tassia",
         "firstName": "Tassia Aparecida Vivian",
         "category": "rx",
@@ -2900,8 +2900,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 5,
+            "descricao": "tempo 5:28"
         },
         {
             "wod": 2,
@@ -2927,9 +2927,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 3,
     "entrant": {
-        "competitorId": "78",
+        "competitorId": 77,
         "competitorName": "Roberta",
         "firstName": "Roberta Chioato",
         "category": "rx",
@@ -2938,8 +2938,8 @@
     "scores": [
         {
             "wod": 1,
-            "score": 0,
-            "descricao": ""
+            "score": 3,
+            "descricao": "tempo 5:14"
         },
         {
             "wod": 2,
@@ -2965,9 +2965,9 @@
 },
 {
     "overallRank": "1",
-    "overallScore": 0,
+    "overallScore": 7,
     "entrant": {
-        "competitorId": "79",
+        "competitorId": 78,
         "competitorName": "Mercia",
         "firstName": "Mercia Maria Ferreira",
         "category": "rx",
@@ -2976,8 +2976,46 @@
     "scores": [
         {
             "wod": 1,
+            "score": 7,
+            "descricao": "tempo 7:38"
+        },
+        {
+            "wod": 2,
             "score": 0,
             "descricao": ""
+        },
+        {
+            "wod": 3,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 4,
+            "score": 0,
+            "descricao": ""
+        },
+        {
+            "wod": 5,
+            "score": 0,
+            "descricao": ""
+        }
+    ]
+},
+{
+    "overallRank": "1",
+    "overallScore": 18,
+    "entrant": {
+        "competitorId": 79,
+        "competitorName": "Vitória",
+        "firstName": "Vitoria Aparecida Silva",
+        "category": "in",
+        "gender": "F"
+    },
+    "scores": [
+        {
+            "wod": 1,
+            "score": 18,
+            "descricao": "tempo 5:02"
         },
         {
             "wod": 2,

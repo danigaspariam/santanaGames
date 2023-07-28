@@ -26,7 +26,7 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.rxMasculino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -55,7 +55,7 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.scaleMasculino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -84,7 +84,7 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.inicianteMasculino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -113,7 +113,7 @@
       </thead>
       <tbody>
         <tr  *ngFor="let atleta of this.basicMasculino">
-          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
           <td>{{this.getNotaWod1(atleta)}}</td>
           <td>{{this.getNotaWod2(atleta)}}</td>
           <td>{{this.getNotaWod3(atleta)}}</td>
@@ -140,7 +140,7 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.rxFeminino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -169,7 +169,7 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.scaleFeminino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -198,7 +198,7 @@
     </thead>
     <tbody>
       <tr  *ngFor="let atleta of this.inicianteFeminino">
-        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+        <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
         <td>{{this.getNotaWod1(atleta)}}</td>
         <td>{{this.getNotaWod2(atleta)}}</td>
         <td>{{this.getNotaWod3(atleta)}}</td>
@@ -227,7 +227,7 @@
       </thead>
       <tbody>
         <tr  *ngFor="let atleta of this.basicFeminino">
-          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}}</td>
+          <td scope="row" (click)="modal(atleta)">{{this.atleta?.entrant?.competitorName}} <button class="btn btn-outline-warning btn-sm">Notas</button></td>
           <td>{{this.getNotaWod1(atleta)}}</td>
           <td>{{this.getNotaWod2(atleta)}}</td>
           <td>{{this.getNotaWod3(atleta)}}</td>

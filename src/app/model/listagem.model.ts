@@ -8,7 +8,7 @@ export class ListagemAtletasResourse {
 
 export class EntrantModel{
   category?: string;
-  competitorId?: string;
+  competitorId?: number;
   competitorName?: string;
   firstName?: string;
   gender?: string;
