@@ -1,5 +1,8 @@
-body{
-  background-color: var(--bs-gray-600);
+div.row, div.first{
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+  background-color: black;
+  width: 103vw;
 }
 
 p{
