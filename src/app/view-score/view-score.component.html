@@ -1,7 +1,7 @@
 <div class="container">
   <p class="atleta">{{this.atleta?.entrant?.firstName}}</p>
   <div *ngFor="let dado of this.atleta?.scores" class="col-12">
-    <p>Wod{{dado?.wod}}  |  Score- {{dado?.score}}</p>
+    <p> {{this.getNomeWod(dado?.wod)}} | Score- {{dado?.score}}</p>
     <p>{{dado?.descricao}}</p>
   </div>
   <div class="row justify-content-center">

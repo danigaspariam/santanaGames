@@ -1,3 +1,7 @@
+body{
+  background-color: var(--bs-gray-600);
+}
+
 p{
   color: rgb(255, 255, 0);
   font-size: 20px;
@@ -13,4 +17,7 @@ div.col, div.row, div.geral{
 
 div.alert{
   padding: 10px !important;
+}
+div{
+  width: 100vw;
 }

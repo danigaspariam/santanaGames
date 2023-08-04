@@ -17,6 +17,8 @@ export class ListagemAtletasComponent implements OnInit{
   public wod3: number = 0;
   public wod4: number = 0;
   public wod5: number = 0;
+  public wod6: number = 0;
+  public wod7: number = 0;
   public isFeminino = true;
   public isMasculino = false;
 
@@ -112,6 +114,25 @@ export class ListagemAtletasComponent implements OnInit{
       }
     });
     return this.wod5;
+  }
+
+  public getNotaWod6(atleta: ListagemAtletasResourse) {
+    const arrayScore: ScoreResource[] | undefined = atleta.scores;
+    arrayScore?.map(data => {
+      if (data.wod === 6) {
+        this.wod6 = data.score;
+      }
+    });
+    return this.wod6;
+  }
+  public getNotaWod7(atleta: ListagemAtletasResourse) {
+    const arrayScore: ScoreResource[] | undefined = atleta.scores;
+    arrayScore?.map(data => {
+      if (data.wod === 7) {
+        this.wod7 = data.score;
+      }
+    });
+    return this.wod7;
   }
 
   public modal(atleta: ListagemAtletasResourse){

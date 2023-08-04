@@ -1,3042 +1,3852 @@
 [
   {
-  "overallRank": "1",
-  "overallScore": 6,
-  "entrant": {
+    "overallRank": "1",
+    "overallScore": 18,
+    "entrant": {
       "competitorId": 0,
       "competitorName": "Dani Gasp",
       "firstName": "Daniele Gaspariam",
       "category": "rx",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 6:37"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 6:37"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 12:23"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 100kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 43kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 120kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 4,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 23,
+    "entrant": {
       "competitorId": 1,
       "competitorName": "Jhully",
       "firstName": "Jhully Handerson dos Reis",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 5:50"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 5:50"
+      },
+      {
+        "wod": 2,
+        "score": 11,
+        "descricao": "tempo 12:35"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 130kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 60kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 182kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 7,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 55,
+    "entrant": {
       "competitorId": 2,
       "competitorName": "Rosi Forner",
       "firstName": "Rosimeire Forner Gaspariam",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 7,
-            "descricao": "tempo 3:34"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 7,
+        "descricao": "tempo 3:34"
+      },
+      {
+        "wod": 2,
+        "score": 22,
+        "descricao": "tempo 12:31"
+      },
+      {
+        "wod": 3,
+        "score": 12,
+        "descricao": "back squat 58kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 29kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 82kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 1,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 5,
+    "entrant": {
       "competitorId": 3,
       "competitorName": "Adriano H",
       "firstName": "Adriano Heissig",
       "category": "basic",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 6:03"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 6:03"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 05:44"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 104kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 53kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 140kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 2,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 13,
+    "entrant": {
       "competitorId": 4,
       "competitorName": "Emerson V",
       "firstName": "Emerson Vignoto Matos",
       "category": "basic",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 8:07"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 8:07"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 12:35"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 75kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 43kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 110kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 3,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 12,
+    "entrant": {
       "competitorId": 5,
       "competitorName": "Fabio Cesar",
       "firstName": "Fabio Cesar Marchi",
       "category": "basic",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 8:12"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 8:12"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 08:40"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 100kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 50kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 120kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 7,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 30,
+    "entrant": {
       "competitorId": 6,
       "competitorName": "Idalina",
       "firstName": "Idalina Isabel Carezzato",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 7,
-            "descricao": "tempo 8:50"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 7,
+        "descricao": "tempo 8:50"
+      },
+      {
+        "wod": 2,
+        "score": 6,
+        "descricao": "tempo 12:42"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "back squat 45kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 25kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 74kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 2,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 10,
+    "entrant": {
       "competitorId": 7,
       "competitorName": "Ana Luiza",
       "firstName": "Ana Luiza Bento",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 7:06"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 7:06"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 11:06"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 75kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 35kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 90kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 1,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 7,
+    "entrant": {
       "competitorId": 8,
       "competitorName": "Cris Junko",
       "firstName": "Cristina Junko Yamashita",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 6:47"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 6:47"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 08:00"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 69kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 38kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 88kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 3,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 17,
+    "entrant": {
       "competitorId": 9,
       "competitorName": "Catherine A",
       "firstName": "Catherine Amber Leone",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 8:26"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 8:26"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 08:43"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 57kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 27kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 78kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 6,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 32,
+    "entrant": {
       "competitorId": 10,
       "competitorName": "Berê",
       "firstName": "Berenice Sobrinho",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 8:36"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 8:36"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 12:43"
+      },
+      {
+        "wod": 3,
+        "score": 7,
+        "descricao": "back squat 34kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 26kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 65kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 4,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 19,
+    "entrant": {
       "competitorId": 11,
       "competitorName": "Giovanna C.A.",
       "firstName": "Giovanna de Castro Almeida",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 8:30"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 8:30"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 10:15"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 58kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 73kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 8,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 36,
+    "entrant": {
       "competitorId": 12,
       "competitorName": "Juliana G",
       "firstName": "Juliana Giacovone",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 8,
-            "descricao": "tempo 9:15"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 8,
+        "descricao": "tempo 9:15"
+      },
+      {
+        "wod": 2,
+        "score": 8,
+        "descricao": "tempo 12:52"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 52kg"
+      },
+      {
+        "wod": 4,
+        "score": 8,
+        "descricao": "shoulder press 16kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 52kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 4,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 13,
       "competitorName": "Luan A.",
       "firstName": "Luan Almeida Faria",
       "category": "in",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 4:59"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 4:59"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 08:47"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 115kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 59kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 134kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 3,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 14,
       "competitorName": "João Vitor",
       "firstName": "João Vitor Souza",
       "category": "in",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 4:28"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 4:28"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 08:34"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 104kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 50kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 140kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 6,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 21,
+    "entrant": {
       "competitorId": 15,
       "competitorName": "Edu Bellao",
       "firstName": "Enéas Eduardo Bellao",
       "category": "in",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 6:00"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 6:00"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 10:57"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 110kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 50kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 124kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 1,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 23,
+    "entrant": {
       "competitorId": 16,
       "competitorName": "Hideki",
       "firstName": "Bruno Hideki Haraguni",
       "category": "in",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 3:01"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 3:01"
+      },
+      {
+        "wod": 2,
+        "score": 6,
+        "descricao": "-"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "-"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "-"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "-"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 5,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 17,
       "competitorName": "Pedro Paulo",
       "firstName": "Pedro Paulo de Olveira",
       "category": "in",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 5:54"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 5:54"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 12:20"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 126kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 60kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 149kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 20,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 53,
+    "entrant": {
       "competitorId": 18,
       "competitorName": "Ana Clara",
-      "firstName": "Ana Clara Sales",
+      "firstName": "Ana Clara Salles",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 20,
-            "descricao": "tempo 5:20"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 20,
+        "descricao": "tempo 5:20"
+      },
+      {
+        "wod": 2,
+        "score": 14,
+        "descricao": "tempo 10:53"
+      },
+      {
+        "wod": 3,
+        "score": 9,
+        "descricao": "back squat 61kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 33kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 83kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 24,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 83,
+    "entrant": {
       "competitorId": 19,
       "competitorName": "Mari Vianna",
       "firstName": "Mariana Fernanda Vianna",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 24,
-            "descricao": "tempo 8:14"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 24,
+        "descricao": "tempo 8:14"
+      },
+      {
+        "wod": 2,
+        "score": 23,
+        "descricao": "tempo 12:53"
+      },
+      {
+        "wod": 3,
+        "score": 12,
+        "descricao": "back squat 58kg"
+      },
+      {
+        "wod": 4,
+        "score": 11,
+        "descricao": "shoulder press 23kg"
+      },
+      {
+        "wod": 5,
+        "score": 13,
+        "descricao": "deadlift 68kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 8,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 18,
+    "entrant": {
       "competitorId": 20,
       "competitorName": "Tati Gon",
       "firstName": "Tatiana Gonçalves Silva",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 8,
-            "descricao": "tempo 3:38"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 8,
+        "descricao": "tempo 3:38"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 9:27"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 83kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 40kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 103kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 22,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 70,
+    "entrant": {
       "competitorId": 21,
       "competitorName": "Thais G",
       "firstName": "Thais Gonçalves dos Santos",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 22,
-            "descricao": "tempo 7:43"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 22,
+        "descricao": "tempo 7:43"
+      },
+      {
+        "wod": 2,
+        "score": 13,
+        "descricao": "tempo 10:37"
+      },
+      {
+        "wod": 3,
+        "score": 9,
+        "descricao": "back squat 61kg"
+      },
+      {
+        "wod": 4,
+        "score": 10,
+        "descricao": "shoulder press 25kg"
+      },
+      {
+        "wod": 5,
+        "score": 16,
+        "descricao": "deadlift 55kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 4,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 22,
       "competitorName": "Thais P",
       "firstName": "Thais Paula Arcanjo",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 3:06"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 3:06"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 08:38"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 81kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 37kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 103kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 5,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 20,
+    "entrant": {
       "competitorId": 23,
       "competitorName": "Luísa",
       "firstName": "Luísa Michelli",
       "category": "basic",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 8:33"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 8:33"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 12:10"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 57kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 31kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 78kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 23,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 58,
+    "entrant": {
       "competitorId": 24,
       "competitorName": "Karen",
       "firstName": "Karen Caroline Vieira",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 23,
-            "descricao": "tempo 8:03"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 23,
+        "descricao": "tempo 8:03"
+      },
+      {
+        "wod": 2,
+        "score": 9,
+        "descricao": "tempo 10:12"
+      },
+      {
+        "wod": 3,
+        "score": 11,
+        "descricao": "back squat 59kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 29kg"
+      },
+      {
+        "wod": 5,
+        "score": 8,
+        "descricao": "deadlift 80kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 16,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 55,
+    "entrant": {
       "competitorId": 25,
       "competitorName": "Mari Zukeran",
-      "firstName": "Maiana Staut Zukeran",
+      "firstName": "Mariana Staut Zukeran",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 16,
-            "descricao": "tempo 4:30"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 16,
+        "descricao": "tempo 4:30"
+      },
+      {
+        "wod": 2,
+        "score": 17,
+        "descricao": "tempo 12:00"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "back squat 68kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 10,
+        "descricao": "deadlift 75kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 14,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 42,
+    "entrant": {
       "competitorId": 26,
       "competitorName": "Lud Brito",
       "firstName": "Ludmila Brito Monteiro",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 14,
-            "descricao": "tempo 4:18"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 14,
+        "descricao": "tempo 4:18"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 8:10"
+      },
+      {
+        "wod": 3,
+        "score": 10,
+        "descricao": "back squat 60kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 31kg"
+      },
+      {
+        "wod": 5,
+        "score": 12,
+        "descricao": "deadlift 72kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 2,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 36,
+    "entrant": {
       "competitorId": 27,
       "competitorName": "Dayana",
       "firstName": "Dayana Leite Ferreira",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 2:41"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 2:41"
+      },
+      {
+        "wod": 2,
+        "score": 8,
+        "descricao": "tempo 9:56"
+      },
+      {
+        "wod": 3,
+        "score": 15,
+        "descricao": "back squat 53kg"
+      },
+      {
+        "wod": 4,
+        "score": 9,
+        "descricao": "shoulder press 27kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 93kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 12,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 47,
+    "entrant": {
       "competitorId": 28,
       "competitorName": "Bárbara M",
       "firstName": "Bárbara Eduarda Moraes",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 12,
-            "descricao": "tempo 4:07"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 12,
+        "descricao": "tempo 4:07"
+      },
+      {
+        "wod": 2,
+        "score": 18,
+        "descricao": "tempo 12:03"
+      },
+      {
+        "wod": 3,
+        "score": 7,
+        "descricao": "back squat 65kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 86kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 13,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 42,
+    "entrant": {
       "competitorId": 29,
       "competitorName": "Carol T",
       "firstName": "Caroline Testoni",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 13,
-            "descricao": "tempo 4:11"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 13,
+        "descricao": "tempo 4:11"
+      },
+      {
+        "wod": 2,
+        "score": 15,
+        "descricao": "tempo 11:10"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 71kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 31kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 83kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 15,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 50,
+    "entrant": {
       "competitorId": 30,
       "competitorName": "Taís E.S",
       "firstName": "Taís do Espirito Santo",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 15,
-            "descricao": "tempo 4:28"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 15,
+        "descricao": "tempo 4:28"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 9:27"
+      },
+      {
+        "wod": 3,
+        "score": 7,
+        "descricao": "back squat 65kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 29kg"
+      },
+      {
+        "wod": 5,
+        "score": 14,
+        "descricao": "deadlift 67kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 6,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 64,
+    "entrant": {
       "competitorId": 31,
       "competitorName": "Dih Gold",
       "firstName": "Ingrid Goldberd",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 3:30"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 3:30"
+      },
+      {
+        "wod": 2,
+        "score": 12,
+        "descricao": "tempo 10:28"
+      },
+      {
+        "wod": 3,
+        "score": 17,
+        "descricao": "-"
+      },
+      {
+        "wod": 4,
+        "score": 12,
+        "descricao": "-"
+      },
+      {
+        "wod": 5,
+        "score": 17,
+        "descricao": "-"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 1,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 32,
       "competitorName": "Lu Moribe",
       "firstName": "Luciana Moribe",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 2:33"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 2:33"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 8:11"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 70kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 38kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 103kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 19,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 37,
+    "entrant": {
       "competitorId": 33,
       "competitorName": "Sandra G",
       "firstName": "Sandra Gomez",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 19,
-            "descricao": "tempo 5:04"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 19,
+        "descricao": "tempo 5:04"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 8:51"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "back squat 68kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 33kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 90kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 21,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 42,
+    "entrant": {
       "competitorId": 34,
       "competitorName": "Bruna Braga",
       "firstName": "Bruna Vieira Braga",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 21,
-            "descricao": "tempo 5:47"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 21,
+        "descricao": "tempo 5:47"
+      },
+      {
+        "wod": 2,
+        "score": 6,
+        "descricao": "tempo 9:25"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 71kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 29kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 85kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 9,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 60,
+    "entrant": {
       "competitorId": 35,
       "competitorName": "Raissa Moura",
       "firstName": "Raissa Santos M. de Moura",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 9,
-            "descricao": "tempo 3:48"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 9,
+        "descricao": "tempo 3:48"
+      },
+      {
+        "wod": 2,
+        "score": 11,
+        "descricao": "tempo 10:27"
+      },
+      {
+        "wod": 3,
+        "score": 16,
+        "descricao": "back squat 45kg"
+      },
+      {
+        "wod": 4,
+        "score": 9,
+        "descricao": "shoulder press 27kg"
+      },
+      {
+        "wod": 5,
+        "score": 15,
+        "descricao": "deadlift 66kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 17,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 57,
+    "entrant": {
       "competitorId": 36,
       "competitorName": "Bia Goes",
       "firstName": "Beatriz Goes Magalhães",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 17,
-            "descricao": "tempo 4:46"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 17,
+        "descricao": "tempo 4:46"
+      },
+      {
+        "wod": 2,
+        "score": 16,
+        "descricao": "tempo 12:20"
+      },
+      {
+        "wod": 3,
+        "score": 12,
+        "descricao": "back squat 58kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 83kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 3,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 37,
+    "entrant": {
       "competitorId": 37,
       "competitorName": "Nat Moraes",
       "firstName": "Natália Moraes",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 2:58"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 2:58"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 08:32"
+      },
+      {
+        "wod": 3,
+        "score": 14,
+        "descricao": "back squat 54kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 11,
+        "descricao": "deadlift 74kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 5,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 46,
+    "entrant": {
       "competitorId": 38,
       "competitorName": "Bia Mazziero",
       "firstName": "Beatriz Gallucci Mazziero",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 3:07"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 3:07"
+      },
+      {
+        "wod": 2,
+        "score": 19,
+        "descricao": "tempo 12:09"
+      },
+      {
+        "wod": 3,
+        "score": 8,
+        "descricao": "back squat 62kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 8,
+        "descricao": "deadlift 80kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 11,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 39,
+    "entrant": {
       "competitorId": 39,
       "competitorName": "Lauanne",
       "firstName": "Lauanne Ribeiro",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 11,
-            "descricao": "tempo 4:06"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 11,
+        "descricao": "tempo 4:06"
+      },
+      {
+        "wod": 2,
+        "score": 21,
+        "descricao": "tempo 12:28"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 69kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 40kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 103kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 10,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 57,
+    "entrant": {
       "competitorId": 40,
       "competitorName": "Luana Sena",
       "firstName": "Luana Nicoli Sena",
       "category": "in",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 10,
-            "descricao": "tempo 3:52"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 10,
+        "descricao": "tempo 3:52"
+      },
+      {
+        "wod": 2,
+        "score": 20,
+        "descricao": "tempo 12:15"
+      },
+      {
+        "wod": 3,
+        "score": 13,
+        "descricao": "back squat 56kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 29kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 82kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 5,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 29,
+    "entrant": {
       "competitorId": 41,
       "competitorName": "Rafael C",
       "firstName": "Rafael Camargo",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 5:52"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 5:52"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 08:44"
+      },
+      {
+        "wod": 3,
+        "score": 8,
+        "descricao": "back squat 90kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 60kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 130kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 10,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 32,
+    "entrant": {
       "competitorId": 42,
       "competitorName": "Ale Capozzi",
       "firstName": "Alexandre Capozzi",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 10,
-            "descricao": "tempo 8:20"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 10,
+        "descricao": "tempo 8:20"
+      },
+      {
+        "wod": 2,
+        "score": 10,
+        "descricao": "tempo 12:19"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 120kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 65kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 150kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 3,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 22,
+    "entrant": {
       "competitorId": 43,
       "competitorName": "Lucas A.D",
       "firstName": "Lucas António Dourado",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 5:32"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 5:32"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 08:26"
+      },
+      {
+        "wod": 3,
+        "score": 7,
+        "descricao": "back squat 106kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 66kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 130kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 7,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 29,
+    "entrant": {
       "competitorId": 44,
       "competitorName": "Marco",
       "firstName": "Marco Martins",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 7,
-            "descricao": "tempo 6:18"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 7,
+        "descricao": "tempo 6:18"
+      },
+      {
+        "wod": 2,
+        "score": 6,
+        "descricao": "tempo 10:58"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 125kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 57kg"
+      },
+      {
+        "wod": 5,
+        "score": 8,
+        "descricao": "deadlift 114kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 11,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 33,
+    "entrant": {
       "competitorId": 45,
       "competitorName": "Lucas Dias",
       "firstName": "Lucas Dias Rodrigues",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 11,
-            "descricao": "-"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 11,
+        "descricao": "-"
+      },
+      {
+        "wod": 2,
+        "score": 8,
+        "descricao": "tempo 11:56"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 123kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 55kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 170kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 8,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 32,
+    "entrant": {
       "competitorId": 46,
       "competitorName": "André R",
       "firstName": "André Rocha Menezes",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 8,
-            "descricao": "tempo 7:39"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 8,
+        "descricao": "tempo 7:39"
+      },
+      {
+        "wod": 2,
+        "score": 9,
+        "descricao": "tempo 12:10"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 116kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 60kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 150kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 1,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 47,
       "competitorName": "Marcão",
       "firstName": "Marcos Correa",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 4:00"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 4:00"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 11:08"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 130kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 66kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 180kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 2,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 7,
+    "entrant": {
       "competitorId": 48,
       "competitorName": "Ivan",
       "firstName": "Ivan Bifano Scalet",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 4:31"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 4:31"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 08:20"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 130kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 68kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 188kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 6,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 19,
+    "entrant": {
       "competitorId": 49,
       "competitorName": "Botter",
       "firstName": "Ricardo Botter",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 5:55"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 5:55"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 7:57"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 116kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 66kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 150kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 2,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 14,
+    "entrant": {
       "competitorId": 50,
       "competitorName": "Douglas",
       "firstName": "Douglas José R. Lima",
       "category": "in",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 3:53"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 3:53"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 9:49"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 100kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 50kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 153kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 9,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 30,
+    "entrant": {
       "competitorId": 51,
       "competitorName": "Andy",
       "firstName": "Anderson Carvalho",
       "category": "sc",
       "gender": "M"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 9,
-            "descricao": "tempo 8:08"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 9,
+        "descricao": "tempo 8:08"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 9:41"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "back squat 110kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 63kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 140kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 5,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 26,
+    "entrant": {
       "competitorId": 52,
       "competitorName": "Giovana T",
       "firstName": "Giovana Teixeira",
       "category": "sc",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 4:25"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 4:25"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 10:06"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 77kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 31kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 93kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 3,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 23,
+    "entrant": {
       "competitorId": 53,
       "competitorName": "Bruna N",
       "firstName": "Bruna Nascimento",
       "category": "sc",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 4:08"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 4:08"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 12:12"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 77kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 35kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 97kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 9,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 36,
+    "entrant": {
       "competitorId": 54,
       "competitorName": "Débora K",
       "firstName": "Débora Kanashiro Meguro",
       "category": "sc",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 9,
-            "descricao": "tempo 7:14"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 9,
+        "descricao": "tempo 7:14"
+      },
+      {
+        "wod": 2,
+        "score": 10,
+        "descricao": "tempo 12:52"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "back squat 75kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 98kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 11,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 43,
+    "entrant": {
       "competitorId": 55,
       "competitorName": "Mireia",
       "firstName": "Mireia Barneze Stender",
       "category": "sc",
       "gender": "F"
-  },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 11,
-            "descricao": "tempo 7:59"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 11,
+        "descricao": "tempo 7:59"
+      },
+      {
+        "wod": 2,
+        "score": 11,
+        "descricao": "tempo 13:02"
+      },
+      {
+        "wod": 3,
+        "score": 8,
+        "descricao": "back squat 65kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 30kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 94kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-  "overallRank": "1",
-  "overallScore": 2,
-  "entrant": {
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 9,
+    "entrant": {
       "competitorId": 56,
       "competitorName": "Bá Benvenuto",
       "firstName": "Bárbara Benvenuto",
       "category": "sc",
       "gender": "F"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 4:05"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 9:01"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 83kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 39kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 107kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
   },
-  "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 4:05"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
+  {
     "overallRank": "1",
-    "overallScore": 12,
+    "overallScore": 35,
     "entrant": {
-        "competitorId": 57,
-        "competitorName": "Angela B",
-        "firstName": "Angela Bitencourt Cavazzi",
-        "category": "sc",
-        "gender": "F"
+      "competitorId": 57,
+      "competitorName": "Angela B",
+      "firstName": "Angela Bitencourt Cavazzi",
+      "category": "sc",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 12,
-            "descricao": "tempo 8:07"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 12,
+        "descricao": "tempo 8:07"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 11:57"
+      },
+      {
+        "wod": 3,
+        "score": 7,
+        "descricao": "back squat 69kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 37kg"
+      },
+      {
+        "wod": 5,
+        "score": 8,
+        "descricao": "deadlift 88kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
     "overallRank": "1",
-    "overallScore": 4,
+    "overallScore": 23,
     "entrant": {
-        "competitorId": 58,
-        "competitorName": "Aline",
-        "firstName": "Aline Yukari Uehara",
-        "category": "sc",
-        "gender": "F"
+      "competitorId": 58,
+      "competitorName": "Aline",
+      "firstName": "Aline Yukari Uehara",
+      "category": "sc",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 4:15"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 4:15"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 9:36"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 83kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 33kg"
+      },
+      {
+        "wod": 5,
+        "score": 9,
+        "descricao": "deadlift 86kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 1,
-    "entrant": {
-        "competitorId": 59,
-        "competitorName": "Néia",
-        "firstName": "Sidneia Bispo de Macedo",
-        "category": "sc",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 3:58"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 8,
-    "entrant": {
-        "competitorId": 60,
-        "competitorName": "Liria",
-        "firstName": "Liria Alves Vicente",
-        "category": "sc",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 8,
-            "descricao": "tempo 6:37"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 7,
-    "entrant": {
-        "competitorId": 61,
-        "competitorName": "Ana Carol",
-        "firstName": "Ana Carolina Ferreira",
-        "category": "sc",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 7,
-            "descricao": "tempo 4:48"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 6,
-    "entrant": {
-        "competitorId": 62,
-        "competitorName": "Fernanda",
-        "firstName": "Fernanda Valentin",
-        "category": "sc",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 4:30"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
+  },
+  {
     "overallRank": "1",
     "overallScore": 10,
     "entrant": {
-        "competitorId": 63,
-        "competitorName": "Leila",
-        "firstName": "Leila Andrade",
-        "category": "sc",
-        "gender": "F"
+      "competitorId": 59,
+      "competitorName": "Néia",
+      "firstName": "Sidneia Bispo de Macedo",
+      "category": "sc",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 10,
-            "descricao": "tempo 7:33"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 3:58"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 9:13"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 88kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 33kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 108kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 45,
+    "entrant": {
+      "competitorId": 60,
+      "competitorName": "Liria",
+      "firstName": "Liria Alves Vicente",
+      "category": "sc",
+      "gender": "F"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 8,
+        "descricao": "tempo 6:37"
+      },
+      {
+        "wod": 2,
+        "score": 12,
+        "descricao": "tempo 13:07"
+      },
+      {
+        "wod": 3,
+        "score": 9,
+        "descricao": "back squat 41kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 31kg"
+      },
+      {
+        "wod": 5,
+        "score": 10,
+        "descricao": "deadlift 75kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 40,
+    "entrant": {
+      "competitorId": 61,
+      "competitorName": "Ana Carol",
+      "firstName": "Ana Carolina Ferreira",
+      "category": "sc",
+      "gender": "F"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 7,
+        "descricao": "tempo 4:48"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 12:09"
+      },
+      {
+        "wod": 3,
+        "score": 8,
+        "descricao": "back squat 65kg"
+      },
+      {
+        "wod": 4,
+        "score": 8,
+        "descricao": "shoulder press 27kg"
+      },
+      {
+        "wod": 5,
+        "score": 11,
+        "descricao": "deadlift 70kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 27,
+    "entrant": {
+      "competitorId": 62,
+      "competitorName": "Fernanda",
+      "firstName": "Fernanda Valentin",
+      "category": "sc",
+      "gender": "F"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 4:30"
+      },
+      {
+        "wod": 2,
+        "score": 8,
+        "descricao": "tempo 12:36"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 76kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 35kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 95kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 26,
+    "entrant": {
+      "competitorId": 63,
+      "competitorName": "Leila",
+      "firstName": "Leila Andrade",
+      "category": "sc",
+      "gender": "F"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 10,
+        "descricao": "tempo 7:33"
+      },
+      {
+        "wod": 2,
+        "score": 9,
+        "descricao": "tempo 12:47"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 82kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 40kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 103kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 39,
+    "entrant": {
+      "competitorId": 64,
+      "competitorName": "Fe Aramizu",
+      "firstName": "Felipe Aramizu Gomes",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 9,
+        "descricao": "tempo 8:53"
+      },
+      {
+        "wod": 2,
+        "score": 9,
+        "descricao": "-"
+      },
+      {
+        "wod": 3,
+        "score": 7,
+        "descricao": "back squat 110kg"
+      },
+      {
+        "wod": 4,
+        "score": 7,
+        "descricao": "shoulder press 55kg"
+      },
+      {
+        "wod": 5,
+        "score": 7,
+        "descricao": "deadlift 150kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 27,
+    "entrant": {
+      "competitorId": 65,
+      "competitorName": "Sidney",
+      "firstName": "Sidney Teruo Miyagi",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 8,
+        "descricao": "tempo 7:48"
+      },
+      {
+        "wod": 2,
+        "score": 4,
+        "descricao": "tempo 12:26"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 133kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 65kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 169kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 20,
+    "entrant": {
+      "competitorId": 66,
+      "competitorName": "Henrique",
+      "firstName": "Henrique Yuki Kamiha",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 5:37"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 12:35"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 133kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 68kg"
+      },
+      {
+        "wod": 5,
+        "score": 3,
+        "descricao": "deadlift 183kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 16,
+    "entrant": {
+      "competitorId": 67,
+      "competitorName": "Eric",
+      "firstName": "Eric Salathiel",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 6:20"
+      },
+      {
+        "wod": 2,
+        "score": 6,
+        "descricao": "tempo 12:31"
+      },
+      {
+        "wod": 3,
+        "score": 0,
+        "descricao": "back squat 152kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 70kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 241kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 23,
+    "entrant": {
+      "competitorId": 68,
+      "competitorName": "Wand",
+      "firstName": "Wanderlon Gomes Milagre",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 6,
+        "descricao": "tempo 6:41"
+      },
+      {
+        "wod": 2,
+        "score": 8,
+        "descricao": "tempo 13:23"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 150kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 70kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 180kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 10,
+    "entrant": {
+      "competitorId": 69,
+      "competitorName": "Leandro",
+      "firstName": "Leandro Augusto Freire",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 4:48"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 12:15"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 173kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 66kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 190kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 30,
+    "entrant": {
+      "competitorId": 70,
+      "competitorName": "Ale Dutra",
+      "firstName": "Alexandre Dutra",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 7,
+        "descricao": "tempo 7:01"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 12:27"
+      },
+      {
+        "wod": 3,
+        "score": 6,
+        "descricao": "back squat 117kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 62kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 154kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 16,
+    "entrant": {
+      "competitorId": 71,
+      "competitorName": "Gustavo",
+      "firstName": "Gustavo Boscolo dos Santos",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 5:48"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 12:20"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 136kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 74kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 180kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 26,
+    "entrant": {
+      "competitorId": 72,
+      "competitorName": "Travassos",
+      "firstName": "Felipe Augusto Travassos",
+      "category": "rx",
+      "gender": "M"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 5:38"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 9:24"
+      },
+      {
+        "wod": 3,
+        "score": 8,
+        "descricao": "back squat 100kg"
+      },
+      {
+        "wod": 4,
+        "score": 6,
+        "descricao": "shoulder press 62kg"
+      },
+      {
+        "wod": 5,
+        "score": 8,
+        "descricao": "deadlift 146kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
+    "overallRank": "1",
+    "overallScore": 12,
+    "entrant": {
+      "competitorId": 73,
+      "competitorName": "Clau",
+      "firstName": "Claudia Oiano",
+      "category": "rx",
+      "gender": "F"
+    },
+    "scores": [
+      {
+        "wod": 1,
+        "score": 1,
+        "descricao": "tempo 4:00"
+      },
+      {
+        "wod": 2,
+        "score": 1,
+        "descricao": "tempo 9:43"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 93kg"
+      },
+      {
+        "wod": 4,
+        "score": 2,
+        "descricao": "shoulder press 43kg"
+      },
+      {
+        "wod": 5,
+        "score": 4,
+        "descricao": "deadlift 115kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
+    ]
+  },
+  {
     "overallRank": "1",
     "overallScore": 9,
     "entrant": {
-        "competitorId": 64,
-        "competitorName": "Fe Aramizu",
-        "firstName": "Felipe Aramizu Gomes",
-        "category": "rx",
-        "gender": "M"
+      "competitorId": 74,
+      "competitorName": "Dani A",
+      "firstName": "Daniella Amorim",
+      "category": "rx",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 9,
-            "descricao": "tempo 8:53"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 2,
+        "descricao": "tempo 4:06"
+      },
+      {
+        "wod": 2,
+        "score": 3,
+        "descricao": "tempo 9:19"
+      },
+      {
+        "wod": 3,
+        "score": 1,
+        "descricao": "back squat 117kg"
+      },
+      {
+        "wod": 4,
+        "score": 1,
+        "descricao": "shoulder press 47kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 123kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
     "overallRank": "1",
-    "overallScore": 8,
+    "overallScore": 24,
     "entrant": {
-        "competitorId": 65,
-        "competitorName": "Sidney",
-        "firstName": "Sidney Teruo Miyagi",
-        "category": "rx",
-        "gender": "M"
+      "competitorId": 75,
+      "competitorName": "Anna",
+      "firstName": "Anna Julia Valaesk",
+      "category": "rx",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 8,
-            "descricao": "tempo 7:48"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 4,
+        "descricao": "tempo 5:15"
+      },
+      {
+        "wod": 2,
+        "score": 6,
+        "descricao": "tempo 12:41"
+      },
+      {
+        "wod": 3,
+        "score": 4,
+        "descricao": "back squat 93kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 40kg"
+      },
+      {
+        "wod": 5,
+        "score": 6,
+        "descricao": "deadlift 95kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
     "overallRank": "1",
-    "overallScore": 2,
+    "overallScore": 16,
     "entrant": {
-        "competitorId": 66,
-        "competitorName": "Henrique",
-        "firstName": "Henrique Yuki Kamiha",
-        "category": "rx",
-        "gender": "M"
+      "competitorId": 76,
+      "competitorName": "Tassia",
+      "firstName": "Tassia Aparecida Vivian",
+      "category": "rx",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 5:37"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 5,
+        "descricao": "tempo 5:28"
+      },
+      {
+        "wod": 2,
+        "score": 2,
+        "descricao": "tempo 11:27"
+      },
+      {
+        "wod": 3,
+        "score": 3,
+        "descricao": "back squat 100kg"
+      },
+      {
+        "wod": 4,
+        "score": 4,
+        "descricao": "shoulder press 40kg"
+      },
+      {
+        "wod": 5,
+        "score": 2,
+        "descricao": "deadlift 123kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
     "overallRank": "1",
-    "overallScore": 5,
+    "overallScore": 14,
     "entrant": {
-        "competitorId": 67,
-        "competitorName": "Eric",
-        "firstName": "Eric Salathiel",
-        "category": "rx",
-        "gender": "M"
+      "competitorId": 77,
+      "competitorName": "Roberta",
+      "firstName": "Roberta Chioato",
+      "category": "rx",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 6:20"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 3,
+        "descricao": "tempo 5:14"
+      },
+      {
+        "wod": 2,
+        "score": 5,
+        "descricao": "tempo 12:29"
+      },
+      {
+        "wod": 3,
+        "score": 2,
+        "descricao": "back squat 116kg"
+      },
+      {
+        "wod": 4,
+        "score": 3,
+        "descricao": "shoulder press 42kg"
+      },
+      {
+        "wod": 5,
+        "score": 1,
+        "descricao": "deadlift 127kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
     "overallRank": "1",
-    "overallScore": 6,
+    "overallScore": 29,
     "entrant": {
-        "competitorId": 68,
-        "competitorName": "Wand",
-        "firstName": "Wanderlon Gomes Milagre",
-        "category": "rx",
-        "gender": "M"
+      "competitorId": 78,
+      "competitorName": "Mercia",
+      "firstName": "Mercia Maria Ferreira",
+      "category": "rx",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 6,
-            "descricao": "tempo 6:41"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 7,
+        "descricao": "tempo 7:38"
+      },
+      {
+        "wod": 2,
+        "score": 7,
+        "descricao": "tempo 12:48"
+      },
+      {
+        "wod": 3,
+        "score": 5,
+        "descricao": "back squat 86kg"
+      },
+      {
+        "wod": 4,
+        "score": 5,
+        "descricao": "shoulder press 35kg"
+      },
+      {
+        "wod": 5,
+        "score": 5,
+        "descricao": "deadlift 100kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
+  },
+  {
     "overallRank": "1",
-    "overallScore": 1,
+    "overallScore": 56,
     "entrant": {
-        "competitorId": 69,
-        "competitorName": "Leandro",
-        "firstName": "Leandro Augusto Freire",
-        "category": "rx",
-        "gender": "M"
+      "competitorId": 79,
+      "competitorName": "Vitória",
+      "firstName": "Vitoria Aparecida Silva",
+      "category": "in",
+      "gender": "F"
     },
     "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 4:48"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
+      {
+        "wod": 1,
+        "score": 18,
+        "descricao": "tempo 5:02"
+      },
+      {
+        "wod": 2,
+        "score": 10,
+        "descricao": "tempo 10:25"
+      },
+      {
+        "wod": 3,
+        "score": 11,
+        "descricao": "back squat 59kg"
+      },
+      {
+        "wod": 4,
+        "score": 8,
+        "descricao": "shoulder press 28kg"
+      },
+      {
+        "wod": 5,
+        "score": 9,
+        "descricao": "deadlift 78kg"
+      },
+      {
+        "wod": 6,
+        "score": 0,
+        "descricao": ""
+      },
+      {
+        "wod": 7,
+        "score": 0,
+        "descricao": ""
+      }
     ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 7,
-    "entrant": {
-        "competitorId": 70,
-        "competitorName": "Ale Dutra",
-        "firstName": "Alexandre Dutra",
-        "category": "rx",
-        "gender": "M"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 7,
-            "descricao": "tempo 7:01"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 4,
-    "entrant": {
-        "competitorId": 71,
-        "competitorName": "Gustavo",
-        "firstName": "Gustavo Boscolo dos Santos",
-        "category": "rx",
-        "gender": "M"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 5:48"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 3,
-    "entrant": {
-        "competitorId": 72,
-        "competitorName": "Travassos",
-        "firstName": "Felipe Augusto Travassos",
-        "category": "rx",
-        "gender": "M"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 5:38"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 1,
-    "entrant": {
-        "competitorId": 73,
-        "competitorName": "Clau",
-        "firstName": "Claudia Oiano",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 1,
-            "descricao": "tempo 4:00"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 2,
-    "entrant": {
-        "competitorId": 74,
-        "competitorName": "Dani A",
-        "firstName": "Daniella Amorim",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 2,
-            "descricao": "tempo 4:06"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 4,
-    "entrant": {
-        "competitorId": 75,
-        "competitorName": "Anna",
-        "firstName": "Anna Julia Valaesk",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 4,
-            "descricao": "tempo 5:15"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 5,
-    "entrant": {
-        "competitorId": 76,
-        "competitorName": "Tassia",
-        "firstName": "Tassia Aparecida Vivian",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 5,
-            "descricao": "tempo 5:28"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 3,
-    "entrant": {
-        "competitorId": 77,
-        "competitorName": "Roberta",
-        "firstName": "Roberta Chioato",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 3,
-            "descricao": "tempo 5:14"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 7,
-    "entrant": {
-        "competitorId": 78,
-        "competitorName": "Mercia",
-        "firstName": "Mercia Maria Ferreira",
-        "category": "rx",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 7,
-            "descricao": "tempo 7:38"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-},
-{
-    "overallRank": "1",
-    "overallScore": 18,
-    "entrant": {
-        "competitorId": 79,
-        "competitorName": "Vitória",
-        "firstName": "Vitoria Aparecida Silva",
-        "category": "in",
-        "gender": "F"
-    },
-    "scores": [
-        {
-            "wod": 1,
-            "score": 18,
-            "descricao": "tempo 5:02"
-        },
-        {
-            "wod": 2,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 3,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 4,
-            "score": 0,
-            "descricao": ""
-        },
-        {
-            "wod": 5,
-            "score": 0,
-            "descricao": ""
-        }
-    ]
-}
+  }
 ]

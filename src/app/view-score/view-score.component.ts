@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { NgbActiveModal, NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-view-score',
@@ -17,6 +17,22 @@ export class ViewScoreComponent implements OnInit{
 
   public closeModal(){
     this.modalService.close();
+  }
+
+  public getNomeWod(wod: any) {
+    let nome;
+    if (wod === 3) {
+      nome = 'Wod 3.1';
+      return nome
+    } if (wod === 4) {
+      nome = 'Wod 3.2';
+      return nome
+    } if (wod === 5) {
+      nome = 'Wod 3.3';
+      return nome
+    }
+    nome = `Wod ${ wod }`;
+    return nome;
   }
 
 }
